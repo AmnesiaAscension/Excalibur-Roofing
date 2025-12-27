@@ -1,0 +1,1 @@
+// Deleted: Types no longer needed for static HTML
